@@ -3,9 +3,26 @@
     {
       "id": 1,
       "title": "hello"
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "hello"
+    },
+    {
+      "id": 3,
+      "title": "hello"
     }
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "authors": [
+    {
+    "id": 1,
+    "name": "Shine Mon"
+    },
+    "id": 2,
+    "name": "Akshay"
+   ]
 }
